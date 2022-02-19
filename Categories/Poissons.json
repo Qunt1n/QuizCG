@@ -2,7 +2,7 @@
 [
     {
         "nom_cat": "Poissons",
-        "image": "poissonC"
+        "image": "poissonC",
         "difficultees": [
             {
                 "niveau": "Facile",
