@@ -9,7 +9,8 @@
     {
         "name":"Flore",
         "categories": [
-            "Arbres"
+            "Arbres",
+            "Fleurs"
         ]
     }
 ]
