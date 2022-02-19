@@ -1,14 +1,13 @@
-
 [
     {
-        "nom_cat": "Poissons",
-        "image": "poissonC"
+        "nom_cat": "Mammifères",
+        "image": "faon",
         "difficultees": [
             {
                 "niveau": "Facile",
                 "questions": [
                     {
-                        "enonce":"question 10?",
+                        "enonce":"question 1?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -20,7 +19,7 @@
                         "descriptif":"description de la réponse"
                     },
                     {
-                        "enonce":"question 20?",
+                        "enonce":"question 2?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -32,7 +31,7 @@
                         "descriptif":"description de la réponse"
                     },
                     {
-                        "enonce":"question 30?",
+                        "enonce":"question 3?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -49,7 +48,7 @@
                 "niveau": "Moyen",
                 "questions": [
                     {
-                        "enonce":"question 40?",
+                        "enonce":"question 4?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -61,7 +60,7 @@
                         "descriptif":"description de la réponse"
                     },
                     {
-                        "enonce":"question 50?",
+                        "enonce":"question 5?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -73,7 +72,7 @@
                         "descriptif":"description de la réponse"
                     },
                     {
-                        "enonce":"question 60?",
+                        "enonce":"question 6?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -90,7 +89,7 @@
                 "niveau": "Difficile",
                 "questions": [
                     {
-                        "enonce":"question 70?",
+                        "enonce":"question 7?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -102,7 +101,7 @@
                         "descriptif":"description de la réponse"
                     },
                     {
-                        "enonce":"question 80?",
+                        "enonce":"question 8?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -114,7 +113,7 @@
                         "descriptif":"description de la réponse"
                     },
                     {
-                        "enonce":"question 90?",
+                        "enonce":"question 9?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -127,7 +126,7 @@
                     }
                 ]
             }
-
+            
         ]
     }
 ]

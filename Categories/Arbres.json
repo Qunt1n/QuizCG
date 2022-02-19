@@ -1,14 +1,12 @@
-
 [
     {
-        "nom_cat": "Poissons",
-        "image": "poissonC"
+        "nom_cat": "Arbres",
         "difficultees": [
             {
                 "niveau": "Facile",
                 "questions": [
                     {
-                        "enonce":"question 10?",
+                        "enonce":"question 100?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -20,7 +18,7 @@
                         "descriptif":"description de la réponse"
                     },
                     {
-                        "enonce":"question 20?",
+                        "enonce":"question 200?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -32,7 +30,7 @@
                         "descriptif":"description de la réponse"
                     },
                     {
-                        "enonce":"question 30?",
+                        "enonce":"question 300?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -49,7 +47,7 @@
                 "niveau": "Moyen",
                 "questions": [
                     {
-                        "enonce":"question 40?",
+                        "enonce":"question 400?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -61,7 +59,7 @@
                         "descriptif":"description de la réponse"
                     },
                     {
-                        "enonce":"question 50?",
+                        "enonce":"question 500?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -73,7 +71,7 @@
                         "descriptif":"description de la réponse"
                     },
                     {
-                        "enonce":"question 60?",
+                        "enonce":"question 600?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -90,7 +88,7 @@
                 "niveau": "Difficile",
                 "questions": [
                     {
-                        "enonce":"question 70?",
+                        "enonce":"question 700?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -102,7 +100,7 @@
                         "descriptif":"description de la réponse"
                     },
                     {
-                        "enonce":"question 80?",
+                        "enonce":"question 800?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -114,7 +112,7 @@
                         "descriptif":"description de la réponse"
                     },
                     {
-                        "enonce":"question 90?",
+                        "enonce":"question 900?",
                         "image":"",
                         "son":"",
                         "reponses":[
@@ -127,7 +125,7 @@
                     }
                 ]
             }
-
+            
         ]
     }
 ]

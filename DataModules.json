@@ -1,0 +1,15 @@
+[
+    {
+        "name":"Faune",
+        "categories": [
+            "Mammiferes",
+            "Poissons",
+        ]
+    },
+    {
+        "name":"Flore",
+        "categories": [
+            "Arbres"
+        ]
+    }
+]
