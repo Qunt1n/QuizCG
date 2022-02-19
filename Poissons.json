@@ -1,0 +1,132 @@
+
+[
+    {
+        "nom_cat": "Poissons",
+        "difficultees": [
+            {
+                "niveau": "Facile",
+                "questions": [
+                    {
+                        "enonce":"question 10?",
+                        "image":"",
+                        "son":"",
+                        "reponses":[
+                            "Reponse A",
+                            "Reponse B",
+                            "Reponse C"
+                        ],
+                        "reponse_correcte":0,
+                        "descriptif":"description de la réponse"
+                    },
+                    {
+                        "enonce":"question 20?",
+                        "image":"",
+                        "son":"",
+                        "reponses":[
+                            "Reponse A",
+                            "Reponse B",
+                            "Reponse C"
+                        ],
+                        "reponse_correcte":0,
+                        "descriptif":"description de la réponse"
+                    },
+                    {
+                        "enonce":"question 30?",
+                        "image":"",
+                        "son":"",
+                        "reponses":[
+                            "Reponse A",
+                            "Reponse B",
+                            "Reponse C"
+                        ],
+                        "reponse_correcte":0,
+                        "descriptif":"description de la réponse"
+                    }
+                ]
+            },
+            {
+                "niveau": "Moyen",
+                "questions": [
+                    {
+                        "enonce":"question 40?",
+                        "image":"",
+                        "son":"",
+                        "reponses":[
+                            "Reponse A",
+                            "Reponse B",
+                            "Reponse C"
+                        ],
+                        "reponse_correcte":0,
+                        "descriptif":"description de la réponse"
+                    },
+                    {
+                        "enonce":"question 50?",
+                        "image":"",
+                        "son":"",
+                        "reponses":[
+                            "Reponse A",
+                            "Reponse B",
+                            "Reponse C"
+                        ],
+                        "reponse_correcte":0,
+                        "descriptif":"description de la réponse"
+                    },
+                    {
+                        "enonce":"question 60?",
+                        "image":"",
+                        "son":"",
+                        "reponses":[
+                            "Reponse A",
+                            "Reponse B",
+                            "Reponse C"
+                        ],
+                        "reponse_correcte":0,
+                        "descriptif":"description de la réponse"
+                    }
+                ]
+            },
+            {
+                "niveau": "Difficile",
+                "questions": [
+                    {
+                        "enonce":"question 70?",
+                        "image":"",
+                        "son":"",
+                        "reponses":[
+                            "Reponse A",
+                            "Reponse B",
+                            "Reponse C"
+                        ],
+                        "reponse_correcte":0,
+                        "descriptif":"description de la réponse"
+                    },
+                    {
+                        "enonce":"question 80?",
+                        "image":"",
+                        "son":"",
+                        "reponses":[
+                            "Reponse A",
+                            "Reponse B",
+                            "Reponse C"
+                        ],
+                        "reponse_correcte":0,
+                        "descriptif":"description de la réponse"
+                    },
+                    {
+                        "enonce":"question 90?",
+                        "image":"",
+                        "son":"",
+                        "reponses":[
+                            "Reponse A",
+                            "Reponse B",
+                            "Reponse C"
+                        ],
+                        "reponse_correcte":0,
+                        "descriptif":"description de la réponse"
+                    }
+                ]
+            }
+            
+        ]
+    }
+]
